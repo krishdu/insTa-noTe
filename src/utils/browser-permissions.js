@@ -1,0 +1,1 @@
+export const hasIndexedDBAccess = 'indexedDB' in window ? true : false;

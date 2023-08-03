@@ -1,0 +1,15 @@
+{
+	"manifest_version": 3,
+	"name": "Insta Notes",
+	"author": "Krishnendu",
+	"version": "1.0.0",
+	"description": "Take instant note easily",
+	"icons": {
+		"16": "instanote16x16.ico",
+		"48": "instanote48x48.ico",
+		"128": "instanote128x128.ico"
+	},
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	}
+}
